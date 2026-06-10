@@ -7,7 +7,7 @@ Built as part of my **CodSoft Internship - Task 2**.
 ---
 
 ## 🌐 Live Demo
-> Coming soon via GitHub Pages!
+> You can play the game live here: [Click to Play] https://msn-1307.github.io/Task2_TicTacToe_AI/
 
 ---
 
